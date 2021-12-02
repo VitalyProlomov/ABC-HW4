@@ -1,0 +1,7 @@
+Filled container:
+0: It is Fraction: a = 2, b = 7. Real = 0.285714
+1: It is Complex: x = 1, y = 14. Real = 14.0357
+2: It is Complex: x = 8, y = 16. Real = 17.8885
+3: It is Complex: x = 15, y = 1. Real = 15.0333
+4: It is Fraction: a = 15, b = 5. Real = 3
+5: It is Fraction: a = 16, b = 9. Real = 1.77778

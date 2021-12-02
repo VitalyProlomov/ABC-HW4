@@ -1,0 +1,2 @@
+Container after deleting numbers:
+0: Average real = 3.52904. Calculaton time = 0 sec, 17117300 nsec
